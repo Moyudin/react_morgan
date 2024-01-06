@@ -58,7 +58,7 @@ function ContactUs(){
                             </div>
                         </div>
 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.8417206322221!2d72.83428941320945!3d18.95494873738223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce3cbdaaaabb%3A0x3689dac215eeb0e7!2sNasim%20Art%20Services!5e0!3m2!1sen!2sin!4v1703458526235!5m2!1sen!2sin" width="90%" height="400"  style={{border:0}} ></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.8417206322221!2d72.83428941320945!3d18.95494873738223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce3cbdaaaabb%3A0x3689dac215eeb0e7!2sNasim%20Art%20Services!5e0!3m2!1sen!2sin!4v1703458526235!5m2!1sen!2sin" title="Unique Title for Iframe 1" width="90%" height="400"  style={{border:0}} ></iframe>
                     </Col>
                 </Row>
             </Container>
